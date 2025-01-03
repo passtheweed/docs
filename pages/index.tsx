@@ -17,10 +17,9 @@ export default function LandingPage() {
             <img src={logoUrl.src} alt="Logo of sudo-flix" />
           </Frame>
         </div>
-        <Hero.Title>sudo-flix</Hero.Title>
+        <Hero.Title>Duhh-Mov</Hero.Title>
         <Hero.Subtitle>
-          A cutesy app for watching your favorite movies and shows. Totally free
-          and open source, forever!
+          A humerous web-app for streaming your favorite movies and shows without us having to host the content 💀
         </Hero.Subtitle>
         <Hero.Actions>
           <Button to="/self-hosting/hosting-intro">Get Started</Button>
@@ -32,7 +31,7 @@ export default function LandingPage() {
       <Frame plain={true}>
         <CardGrid>
           <Card icon="material-symbols:hangout-video-off" title="No Ads">
-            sudo-flix will never show ads, enjoy watching without interruptions.
+            Duhh-Mov will never show ads, enjoy watching without interruptions.
           </Card>
           <Card icon="ic:baseline-ondemand-video" title="Custom Player">
             Enjoy a fully custom video player including streaming integration,
